@@ -1,9 +1,10 @@
 html.no-js picture[data-lazy] {
-    display:none!important
+    display:none!important;
   }
   html {
     -ms-text-size-adjust:100%;
-    -webkit-text-size-adjust:100%
+    -webkit-text-size-adjust:100%;
+    scroll-behavior: smooth;
   }
   abbr,
   blockquote,

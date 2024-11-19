@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Typewriter';
+  src: url(../fonts/type_regular.otf)
+}
+
+@font-face {
+  font-family: 'Leorio';
+  src: url(../fonts/Leorio.ttf)
+}
+
+body,
+html {
+  margin:0;
+  padding:0;
+  color:#fff;
+  background:#000;
+  font-family: 'Leorio', sans-serif;
+}
+a {
+  color:inherit
+}
+* {
+  box-sizing:border-box
+}
